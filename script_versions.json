@@ -1,0 +1,13 @@
+{
+  "cer_bossmenu": {
+  "version": "1.4.3",
+  "changelog": "[cer_bossmenu v1.4.3] Visual interface for configuring role-based access control across all sections of the management menu. Dedicated cards in the sidebar for administrative operations, such as resetting activity totals or clearing service history and logs.",
+  "description": "Access our documentation from: https://cerberus-scripts.gitbook.io/docs"
+},
+"cer_ems_mdt": {
+    "version": "1.1.0"
+  },
+  "cer_elevators": {
+    "version": "1.2.0"
+  }
+}
