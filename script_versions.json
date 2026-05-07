@@ -8,6 +8,7 @@
     "version": "1.1.0"
   },
   "cer_elevators": {
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "changelog": "[cer_elevators v1.2.0] Introduces a 3D point capture system, database integration, sounds, Dispatch integration, admin interface, job restrictions, animations, and an interactive panel with theme support."
   }
 }
