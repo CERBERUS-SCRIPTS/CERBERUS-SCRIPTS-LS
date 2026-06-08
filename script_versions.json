@@ -1,7 +1,7 @@
 {
   "cer_bossmenu": {
-    "version": "1.4.3",
-    "changelog": "[cer_bossmenu v1.4.3] Adds a visual interface for role-based access control, allowing admins to configure minimum ranks for all menu sections and actions.",
+    "version": "1.4.4",
+    "changelog": "[cer_bossmenu v1.4.4] Significant security enhancements, improved DB query hardening, and several minor bug fixes.",
     "description": "Access our documentation from: https://cerberus-scripts.gitbook.io/docs"
   },
   "cer_ems_mdt": {
