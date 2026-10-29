@@ -9,6 +9,6 @@
   },
   "cer_elevators": {
     "version": "1.3.0",
-    "changelog": "[cer_elevators v1.3.0] Refresh elevator admin flow and server validation, The admin panel state and interfaz visual plumbing so the web client receives the latest config, locale, and elevator data contract."
+    "changelog": "[cer_elevators v1.3.0] Updated elevator administration panel and server security validations, Restructured admin panel to receive latest configuration, locales, and elevator data in real time."
   }
 }
