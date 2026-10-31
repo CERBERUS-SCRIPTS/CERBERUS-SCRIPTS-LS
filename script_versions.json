@@ -12,7 +12,7 @@
     "changelog": "[cer_elevators v1.3.0] Updated elevator administration panel and server security validations, Restructured admin panel to receive latest configuration, locales, and elevator data in real time."
   },
   "cer_donations": {
-    "version": "1.0.0",
-    "changelog": "[cer_donations v1.0.0] Decouple scanDonorBarcode into a customizable hook and update docs, ScanDonorBarcode server export for programmatic trigger."
+    "version": "1.0.1",
+    "changelog": "[cer_donations v1.0.1] Add configurable inventory and interaction bridges, Adapters for six inventory resources and custom inventory templates."
   }
 }
