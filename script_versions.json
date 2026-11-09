@@ -9,7 +9,7 @@
   },
   "cer_elevators": {
     "version": "1.3.1",
-    "changelog": "[cer_elevators v1.3.1] Add adaptive target and textui integrations"
+    "changelog": "[cer_elevators v1.3.1] Add adaptive target and textui integrations, A reusable web TextUI store and component for clean interaction prompts and key badges in the NUI shell."
   },
   "cer_donations": {
     "version": "1.0.1",
